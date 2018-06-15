@@ -1,0 +1,19 @@
+In the final project, we have implemented our dropout in 6 games.  
+
+In each files, it contains:
+
+ddpg.py 		--- traditional ddpg algorithm
+utils.py 		--- required functions
+plot_[game].ipynb	--- plots
+
+[our upgraded methods]
+[game]_drop.pkl 		--- dropout algorithm ddpg data
+[game]_drop_model.pkl		--- dropout algorithm ddpg model
+[game]_drop.ipynb		--- dropout algorithm ddpg notebook
+[game]_drop_video.ipynb		--- dropout algorithm ddpg video
+
+[game].pkl 		--- ddpg data
+[game]_model.pkl	--- ddpg model
+[game].ipynb		--- ddpg notebook
+[game]_video.pynb	--- ddpg video
+
