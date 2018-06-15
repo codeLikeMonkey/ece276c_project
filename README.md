@@ -1,6 +1,7 @@
 This is the final project
 
 ./games 	--contains our source code and data
+
 ./videos	--contains videos
 
 
